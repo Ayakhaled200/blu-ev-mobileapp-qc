@@ -5,11 +5,10 @@ This repository contains a complete QA evaluation for the **Blu EV Mobile App**,
 ---
 
 ## 📁 Repository Structure
-blu-ev-mobileapp-qc-assessment/
-│
-├── README.md                        # 📘 Project overview and documentation
-├── Test_Plan.docx                   # 🧪 Full test plan (scope, criteria, priorities)
-├── TestCases_BugReport.xlsx         # ✅ 40 Test Cases + 🐞 10 Bug Reports
+blu-ev-mobileapp-qc/
+├── README.md                   📘 Project overview and documentation  
+├── Test_Plan.docx              🧪 Full test plan (scope, criteria, priorities)    
+└── TestCases_BugReport.xlsx    ✅ 40 Test Cases + 🐞 10 Bug Reports 
 
 
 ---
