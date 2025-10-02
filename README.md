@@ -59,15 +59,6 @@ I selected **Blu EV Mobile App** for testing based on its innovative role in ele
 📂 Google Drive link to screenshots & supporting materials:  
 **➡️ [Click to View]([https://your-google-drive-link.com](https://drive.google.com/drive/folders/1kw_5jjAmd0-xnutaGOT9GlmxU1Babvk6?usp=sharing))**
 
----
-
-## Author
-
-**[Aya Khaled]**  
-- AI, Software and Automation Tester
-- 📧 yukikhaled2001@gmail.com  
-
-
 
 
 
