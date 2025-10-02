@@ -1,4 +1,4 @@
-# 🚗 Blu EV Mobile App – QC Assessment
+# 🏍️ Blu EV Mobile App – QC Assessment
 
 This repository contains a complete QA evaluation for the **Blu EV Mobile App**, a real-world solution for managing electric mobility, ride activity, and battery leasing.
 
