@@ -64,8 +64,8 @@ I selected **Blu EV Mobile App** for testing based on its innovative role in ele
 ## Author
 
 **[Aya Khaled]**  
-AI, Software and Automation Tester
-📧 yukikhaled2001@gmail.com  
+- AI, Software and Automation Tester
+- 📧 yukikhaled2001@gmail.com  
 
 
 
